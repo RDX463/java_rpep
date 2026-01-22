@@ -8,7 +8,7 @@ public class loops {
             i++;
             }*/
             for(int i =0;i<=9;i++){
-                System.out.println(i);
+                System.out.println(i*i);
             }
         System.out.println("While loop ended");
     }
